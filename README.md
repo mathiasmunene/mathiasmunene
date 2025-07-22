@@ -18,6 +18,7 @@
 - Skills: Web Development, API Integration, Responsive Design, Analytical Problem-Solving
 
 📊 GitHub Stats
+https://github.com/mathiasmunene/mathiasmunene
 
 ## 🏆 Featured Projects
 1. Kenya Wildlife Tracker: A JavaScript-based app to track wildlife data, built with a focus on clean code and user-friendly interfaces.

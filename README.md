@@ -1,5 +1,5 @@
 #👋 Hey, I'm Mathias Munene! 🚀
-  Welcome to my GitHub! I’m an economist and civil engineer by training, now         diving into Full Stack Software Development at Moringa School (class of 2025) to   expand my skill set and create tech solutions that make a positive impact. I’m     passionate about building React apps, coding in JavaScript and Python, and         solving real-world problems. Coding is a thrilling challenge—especially when the   program runs smoothly with no bugs! 😂 Let’s build something that matters!
+  Welcome to my GitHub! I’m an Economist and Civil engineer by training, now diving into Full Stack Software Development at Moringa School (class of 2025) to expand my skill set and create tech solutions that make a positive impact. I’m passionate about building React apps, coding in JavaScript and Python, and solving real-world problems. Coding is a thrilling challenge—especially when the   program runs smoothly with no bugs! 😂 Let’s build something that matters!
 
 #🌍 About Me
 ##🔭 Currently building: Web apps like a Wildlife Tracker and a Personal Website     using React and JavaScript.

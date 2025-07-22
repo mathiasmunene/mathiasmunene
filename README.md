@@ -17,13 +17,6 @@
 - Exploring Next: TypeScript, Next.js, Cloud APIs
 - Skills: Web Development, API Integration, Responsive Design, Analytical Problem-Solving
 
-## 📊 GitHub Stats
-![Mathias' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathiasmunene&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmunene&layout=compact&theme=dracula)
-
-![Kenya Wildlife Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mathiasmunene&repo=Kenya-Wildlife-Tracker&theme=dracula)
-
 ## 🏆 Featured Projects
 1. **[Kenya Wildlife Tracker](https://github.com/mathiasmunene/Kenya-Wildlife-Tracker)**: A JavaScript-based app to track wildlife data, built with a focus on clean code and user-friendly interfaces.
 2. **[Personal Website](https://github.com/mathiasmunene/personalwebsite)**: A custom-built site using HTML and CSS to showcase my portfolio and tech journey.

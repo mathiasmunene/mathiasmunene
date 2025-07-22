@@ -1,21 +1,21 @@
 # 👋 Hey, I'm Mathias Munene! 🚀
   Welcome to my GitHub! I’m an Economist and Civil engineer by training, now diving into Full Stack Software Development at Moringa School (class of 2025) to expand my skill set and create tech solutions that make a positive impact. I’m passionate about building React apps, coding in JavaScript and Python, and solving real-world problems. Coding is a thrilling challenge—especially when the   program runs smoothly with no bugs! 😂 Let’s build something that matters!
 
-# 🌍 About Me
+## 🌍 About Me
 - 🔭 Currently building: Web apps like a Wildlife Tracker and a Personal Website using React and JavaScript.
-🌱 Learning: Advanced React, Python automation, SQL databases, and cloud deployment with Vercel.
-👯 Open to collaborate on: Open-source web projects, wildlife or community-focused apps, or innovative tools.
-💬 Ask me about: React state management, JavaScript event handling, or Python scripting.
-📫 Reach me at: munenemathias@gmail.com.
-🔗 Connect: https://www.linkedin.com/in/mathiasmunene/ | https://github.com/mathiasmunene.
-😄 Pronouns: He/Him.
-⚡ Fun fact: I once spent an entire night tweaking a React component’s state to perfect an attendance tracker’s UI!
+- 🌱 Learning: Advanced React, Python automation, SQL databases, and cloud deployment with Vercel.
+- 👯 Open to collaborate on: Open-source web projects, wildlife or community-focused apps, or innovative tools.
+- 💬 Ask me about: React state management, JavaScript event handling, or Python scripting.
+- 📫 Reach me at: munenemathias@gmail.com.
+- 🔗 Connect: https://www.linkedin.com/in/mathiasmunene/ | https://github.com/mathiasmunene.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I once spent an entire night tweaking a React component’s state to perfect an attendance tracker’s UI!
 
-# 🛠️ Tech Stack
-Languages: HTML, CSS, JavaScript, Python, SQL
-Frameworks/Tools: React, Vite, Node.js, SQLite
-Exploring Next: TypeScript, Next.js, Cloud APIs
-Skills: Web Development, API Integration, Responsive Design, Analytical Problem-Solving
+## 🛠️ Tech Stack
+- Languages: HTML, CSS, JavaScript, Python, SQL
+- Frameworks/Tools: React, Vite, Node.js, SQLite
+- Exploring Next: TypeScript, Next.js, Cloud APIs
+- Skills: Web Development, API Integration, Responsive Design, Analytical Problem-Solving
 
 📊 GitHub Stats
 
